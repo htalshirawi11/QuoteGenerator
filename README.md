@@ -17,7 +17,10 @@ A react web application that can display random quotes from a fetched API. You c
 - API Ninjas (fetch) https://api-ninjas.com/api
 
 ## Running Locally
-
+git clone https://github.com/htalshirawi11/QuoteGenerator.git
+cd QuoteGenerator
+npm install
+npm run dev
 
 ## What I learned
 This was my first project React web app. 
