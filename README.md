@@ -2,6 +2,8 @@
 
 A react web application that can display random quotes from a fetched API. You can also add your own quotes in.
 
+[Vercel link to go try it out live
+]((https://quote-generator-tan-five.vercel.app/))
 ## Features
 - Fetches random quotes
 - "New Quote feature" - adds more to your library
